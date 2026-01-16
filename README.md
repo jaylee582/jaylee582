@@ -7,7 +7,9 @@
 2. My main hobbies consist of lifting, running, and video games
 3. I spend time daily, learning japanese and spanish, as well as various coding langauges
 ##
-**My Goals**
+**My Goals/Projects**
 1. I would like to become as multilingual as I can, through both human and computer languages
-2. I want to put daily effort towards being as physically fit as possible
-3. I want to learn as much as I can about new technology topics
+   - Currently building on C++, Python, Java
+   - Secondarily focusing on HTML and PHP for web creation
+3. I want to put daily effort towards being as physically fit as possible
+4. I want to explore personal research in AI, in addtion to tech topics
