@@ -12,4 +12,4 @@
    - Currently building on C++, Python, Java
    - Secondarily focusing on HTML and PHP for web creation
 3. I want to put daily effort towards being as physically fit as possible
-4. I want to explore personal research in AI, in addition to tech topics
+4. I want to explore personal research in AI, in addition to new tech topics
